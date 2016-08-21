@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal: Chapter 0
+title: "Universal: Chapter 0"
 tag: react
 ---
 
