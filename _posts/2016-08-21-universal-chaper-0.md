@@ -272,7 +272,7 @@ Now run `npm run build` and `open index.html`
 
 You should see that a `<style>` tag was added to the `<head>` with our css file, and the localized css classname `index__red___3fvh6` was applied to the `<body>`, making the Hello World be red.
 
-![](/assets/postcss.png)
+![](/log/assets/img/postcss.png)
 
 ---
 
@@ -333,7 +333,7 @@ console.log(a + b)
 
 So now if you open `src/index.js` with an editor with eslint support \(like [Atom](https://atom.io) + [Linter](https://atom.io/packages/linter) + [ESLint Plugin](https://atom.io/packages/linter-eslint)\) it should be working:
 
-![](/assets/eslint.png)
+![](/log/assets/img/eslint.png)
 
 ---
 
