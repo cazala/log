@@ -1,3 +1,11 @@
 - name: Synaptic
-  category: machine learning
+  description: javascript neural network library
   url: http://synaptic.juancazala.com
+
+- name: Universal JS
+  description: gitbook about isomorphic javascript (wip)
+  url: https://cazala.gitbooks.io/universal-javascript
+
+- name: Shoal
+  description: autonomous agents (poc)
+  url: http://juancazala.com/shoal

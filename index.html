@@ -13,11 +13,11 @@ layout: default
     </ul>
 </div>
 <div class="portfolio">
-    <h1>Projects:</h1>
+    <h1>Stuff:</h1>
     <ul>
         {% for project in site.data.projects %}
         <li>
-            <a href="{{ project.url }}">{{ project.name }}</a>
+            <a href="{{ project.url }}">{{ project.name }}</a>: {{ project.description }}
         </li>
         {% endfor %}
     </ul>
