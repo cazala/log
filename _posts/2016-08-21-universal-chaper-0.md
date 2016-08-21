@@ -98,7 +98,6 @@ module.exports = {
     }
   }
 }
-
 ```
 Add `/dist` to the `.gitignore` file
 ```
