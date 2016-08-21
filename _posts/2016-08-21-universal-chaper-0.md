@@ -4,8 +4,6 @@ title: "Universal: Chapter 0"
 tag: react
 ---
 
-# Chapter 0 - Setup
-
 The purpose of this chapter is to setup a development environment to start working on our universal app. We will cover Webpack, Babel, PostCSS, ESLint and we will create a DevServer.
 
 **Branch**: To see the commits of this chapter checkout [this branch](https://github.com/cazala/universal-app/commits/setup).

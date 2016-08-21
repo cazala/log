@@ -112,7 +112,7 @@ ul {
 	padding-bottom: 30px;
 	&__back {
 		a {
-			
+
 		}
 	}
 	&__title {
@@ -211,6 +211,7 @@ ul {
 			line-height: 1.5;
 			border-radius: 3px;
 			background: $color-black;
+      overflow: auto;
 			code {
 				color: $color-code;
 				background: none;
