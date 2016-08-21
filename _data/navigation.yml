@@ -1,14 +1,14 @@
-- title: me
+- title: /
   url: /
 
-- title: github
+- title: gh
   url: https://github.com/cazala
 
-- title: twitter
+- title: tw
   url: https://twitter.com/juancazala
 
-- title: linkedin
+- title: in
   url: https://www.linkedin.com/in/juancazala/en
 
-- title: email
+- title: @
   url: mailto:cazala@mail.sfsu.edu
