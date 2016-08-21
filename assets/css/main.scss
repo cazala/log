@@ -142,6 +142,12 @@ ul {
 	}
 	&__content {
 		padding-top: 40px;
+
+    hr {
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
 		h1 {
 			font-size: 1.4em;
 			font-weight: 700;
@@ -149,10 +155,10 @@ ul {
 			margin-bottom: 10px;
 		}
 		h2 {
-			font-size: 1.1em;
-			font-weight: 700;
-			margin-top: 25px;
-			margin-bottom: 5px;
+      font-size: 1.5em;
+      font-weight: 700;
+      margin-top: 50px;
+      margin-bottom: 15px;
 		}
 		p {
 			font-size: 1em;
@@ -215,6 +221,7 @@ ul {
 			code {
 				color: $color-code;
 				background: none;
+        padding: 0px;
 			}
 		}
 		.codebreak {
