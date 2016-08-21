@@ -234,7 +234,6 @@ postcss: [
   require('postcss-nested'),
   require('postcss-simple-vars')
 ]
-
 ```
 
 And add the extensions to `resolve.extension`
@@ -291,9 +290,7 @@ You should see that a `<style>` tag was added to the `<head>` with our css file,
 Yet again, another bigass npm install:
 
 ```
-
 npm install --save-dev eslint babel-eslint eslint-config-standard eslint-config-standard-react eslint-plugin-babel eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-promise eslint-plugin-react eslint-plugin-standard eslint-watch
-
 ```
 
 Add a `.eslintrc` file to configure the linter, this is an example of the coding style that I use, but you can configure it to your needs, and there are tons of eslint plugins that you can choose from in npm:
@@ -432,7 +429,7 @@ You can also remove `src/index.js` if you still have it from previous step
 Finally, add a script to your `package.json`'s scripts to start the dev-server
 
 ```
-  "dev-server": "node dev-server.js",
+"dev-server": "node dev-server.js",
 ```
 
 ---
