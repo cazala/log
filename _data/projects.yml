@@ -1,10 +1,10 @@
 - name: Synaptic
   description: javascript neural network library
-  url: http://synaptic.juancazala.com
+  url: http://caza.la/synaptic
 
 - name: Shoal
   description: autonomous agents (poc)
-  url: http://juancazala.com/shoal
+  url: http://caza.la/shoal
 
 - name: Universal
   description: gitbook about isomorphic javascript (wip)
