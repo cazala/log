@@ -1,2 +1,2 @@
-# juancazala.com/log
+# caza.la/log
 My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
